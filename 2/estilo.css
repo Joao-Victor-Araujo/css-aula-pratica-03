@@ -1,0 +1,11 @@
+h1{
+   text-transform: uppercase;
+   color: rgb(182, 46, 175); 
+}
+.texto{
+    font-style: italic;
+}
+p, .bonito{
+    color: slateblue;
+    text-decoration: underline;
+}
